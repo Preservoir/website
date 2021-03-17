@@ -1,2 +1,2 @@
 # website
-Hello-world website. Yet another attempt at this platform.
+My 'hello-world' website. Yet another attempt at this platform.
