@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Вэлкам. Начать с переделки Индекс-а (то бишь стартовой страницы)
 
 You can use the [editor on GitHub](https://github.com/Preservoir/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
